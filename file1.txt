@@ -1,1 +1,3 @@
 Third times the charm! First line to my awesome project
+
+addition to file 1
